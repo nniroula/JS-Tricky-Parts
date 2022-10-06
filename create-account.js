@@ -1,11 +1,4 @@
-// function createAccount(pin, amount) {
-
-// }
-
-// module.exports = { createAccount };
-
-
-// 
+// Some to the logic here is used from the solution manual!
 function createAccount(pin, amount = 0) {
     return {
       checkBalance(inputPin) {
